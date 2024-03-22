@@ -1,5 +1,5 @@
 """
-Make all letters high
+функция позволяет заменить буквы на заглавные
 """
 def high_word(word):
   return word.upper()
@@ -13,4 +13,6 @@ def title_word():
 
 word = input("Введите слово!")
 print (high_word(word))
+
 title_word()
+
