@@ -1,3 +1,6 @@
+"""
+Добавлена новая функция
+"""
 def high_word(word):
   return word.upper()
 
